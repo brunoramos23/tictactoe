@@ -1,6 +1,7 @@
 # Jogo da Velha com Programação Concorrente
 
 Dupla Juan Lobo Pereira e Bruno Ramos Menezes
+
 ![Jogo da Velha Concorrente](tictactoe.gif)
 
 ## Descrição do Projeto
